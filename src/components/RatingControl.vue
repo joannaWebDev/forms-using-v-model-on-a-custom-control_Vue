@@ -62,6 +62,7 @@ li {
 button {
   font: inherit;
   border: none;
+  outline: none;
   background-color: transparent;
   cursor: pointer;
 }
